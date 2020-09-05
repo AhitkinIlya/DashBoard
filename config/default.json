@@ -1,0 +1,6 @@
+{
+  "mongoURI": "Ваша ссылка на базу даныхх MongoDВ",
+  "jwtSecret": "Ваш секретный jwt",
+  "githubClientId": "Ваш githubClientID",
+  "githubSecret": "Ваш githubSecret"
+}
